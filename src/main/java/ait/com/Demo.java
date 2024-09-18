@@ -4,9 +4,12 @@ class Demo {
 	add();
         mul();
    }
-    static void mul(){
-      System.out.println("Hello Friends.......");
-    }	
-   
+	static void add(){
+		System.out.println("Ayush Mishra");
+	}
 
+   
+	static void mul(){
+     		 System.out.println("Hello Friends.......");
+    	}
 }

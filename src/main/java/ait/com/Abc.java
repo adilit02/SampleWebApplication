@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+class Abc
+{
+	public static void main(Sting [] args){
+		
+		System.out.print("Welcome ..........");
+	}
+}
+=======
 // ........Reverse A String........
 import java.util.Scanner;
 public class Abc{
@@ -26,3 +35,4 @@ public class Abc{
 	System.out.println(lower);
   }
 }
+>>>>>>> f869756e9f6a519b18e7a6a0f290f1c38f40399b
