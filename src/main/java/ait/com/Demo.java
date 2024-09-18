@@ -4,7 +4,9 @@ class Demo {
 	add();
         mul();
    }
-
+    static void mul(){
+      System.out.println("Hello Friends.......");
+    }	
    
 
 }
